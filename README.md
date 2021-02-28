@@ -12,14 +12,14 @@ Assignment conducted by Billie Hussein
 
 # Snapshots of the website 
 
-<img src="https://github.com/BillieH88/Challenger-1/blob/main/assets/images/Capture1.JPG?raw=true">
+![picture1](./assets/images/Capture1.JPG)
 Website with my URL
 
-<img src="https://github.com/BillieH88/Challenger-1/blob/main/assets/images/Capture2.JPG?raw=true">
+![picture1](./assets/images/Capture2.JPG)
 Website with first link clicked on
 
-<img src="https://github.com/BillieH88/Challenger-1/blob/main/assets/images/Capture3.JPG?raw=true">
+![picture1](./assets/images/Capture3.JPG)
 Website with second link clicked on
 
-<img src="https://github.com/BillieH88/Challenger-1/blob/main/assets/images/Capture4.JPG?raw=true">
+![picture1](./assets/images/Capture4.JPG)
 Website with third link clicked on
