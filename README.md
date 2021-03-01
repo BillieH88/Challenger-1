@@ -8,7 +8,7 @@ Assignment conducted by Billie Hussein
 3. Added an alt attribute to the 3 images describing what images consist of incase image does not appear.
 4. Removed redundancy by Grouping the class elements with same definitions instead of writing down class element down seperately.
 5. Corrected all the font-family with the proper format. i.e adding the punctuation marks on both sides of font style.
-6.  Changed and used semantics for header, section, footer instead of div. Adjusted for in both html code and css code.
+6.  Changed and used semantics for header, nav, section, footer instead of div. Adjusted for in both html code and css code.
 
 # Snapshots of the website 
 
